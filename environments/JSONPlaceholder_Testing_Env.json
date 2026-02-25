@@ -1,0 +1,15 @@
+{
+  "name": "JSONPlaceholder-Testing",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://jsonplaceholder.typicode.com",
+      "enabled": true
+    },
+    {
+      "key": "new_post_id",
+      "value": "101",
+      "enabled": true
+    }
+  ]
+}
